@@ -24,7 +24,7 @@ To include, add the following to your build.gradle
         }
     }
 
-    apply plugin: 'blacklist'
+    apply plugin: 'nebula.blacklist'
 
 ### Dependency corrections
 
